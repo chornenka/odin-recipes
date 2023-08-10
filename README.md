@@ -1,1 +1,1 @@
-# odin-recipes
+# Simple recipe page for Odin Project
